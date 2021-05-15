@@ -1,2 +1,4 @@
 # Genetic-Algorithm
-Implementation of the Genetic Algorithm in Python
+Implementation of a Genetic Algorithm in Python
+
+Run it by running the genetic.py file
